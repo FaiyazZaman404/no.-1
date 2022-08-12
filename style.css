@@ -1,0 +1,23 @@
+body { background-color: rgb(48, 45, 33);} 
+h1 {color: aqua; background-color: rgb(230, 203, 30);}
+.red {color: red;}
+.hell {color: royalblue;}
+#blue {color:aquamarine; background-color: burlywood;}
+.font-styles{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.box-model {background-color: rgb(134, 153, 230); border: 10px solid whitesmoke;
+     padding: 3%; margin-bottom: 10%; 
+     border-radius: 10px;}
+#font-style{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bold; 
+font-size: 150%; text-align: center;
+ }
+#youtube {text-align: center;}  
+.parent {display: flex;}
+.parent div {font-size: 50px;
+font-weight: 500;
+color: blueviolet;
+border: 4px solid white;
+margin: 20px;
+height: 250px;
+width: 250px;
+padding: 10%;}
